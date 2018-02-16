@@ -1,0 +1,44 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	border: 30px solid;
+	border-color: black;
+}
+
+/* comment */
+
+
+#one {
+	width: 80%;
+	margin:auto;
+	overflow:hidden;
+	float: left;
+	display: inline;
+
+}
+
+#two{width: 60%;
+	margin:auto;
+	overflow:hidden;
+	float: left;
+
+}
+
+#three{
+	width: 35%;
+	margin:auto;
+	overflow:hidden;
+	float: right;
+}
+
+.main{
+	width:155px;
+	height: 95px;
+	align-items: center;
+}
+
+
+
+
+
+
